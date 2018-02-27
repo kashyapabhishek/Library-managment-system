@@ -1,0 +1,937 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"author_name"
+			],
+			[
+				"boo",
+				"book_price"
+			],
+			[
+				"re",
+				"Register"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ra",
+				"random_list"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"TEM",
+				"template"
+			],
+			[
+				"ht",
+				"html_"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"te",
+				"thead\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-image-source"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cl",
+				"color"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"main",
+				"main-section"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"background-cl",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bal",
+				"background-color"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"No",
+				"node"
+			],
+			[
+				"set",
+				"setWindowTitle"
+			],
+			[
+				"__",
+				"__init"
+			],
+			[
+				"sh",
+				"showGeometry"
+			],
+			[
+				"Q",
+				"QtGui"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"int",
+				"count_input_line"
+			],
+			[
+				"co",
+				"count_input_line"
+			],
+			[
+				"pr",
+				"putchar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/book.h",
+			"settings":
+			{
+				"buffer_size": 695,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 213.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 307.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kashyap/Documents/c++/LibraryManagementSystem/include",
+		"/home/kashyap/Dev/cfehome/src/cfehome/settings/base.py",
+		"/home/kashyap/Dev/cfehome/src/cfehome/urls.py",
+		"/home/kashyap/Dev/cfehome/src/restaurants/views.py",
+		"/home/kashyap/Dev/firstroject/src/firstroject/settings/production.py",
+		"/home/kashyap/Dev/firstroject/src/firstroject/settings/local.py",
+		"/home/kashyap/Dev/firstroject/src/firstroject/settings/base.py",
+		"/home/kashyap/Dev/firstroject/src/firstroject/settings/__init__.py",
+		"/home/kashyap/Dev/firstroject/src/templates/home.html",
+		"/home/kashyap/Dev/firstroject/src/restaurants/admin.py",
+		"/home/kashyap/Dev/firstroject/src/restaurants/models.py",
+		"/home/kashyap/Dev/firstroject/src/templates/about.html",
+		"/home/kashyap/Dev/firstroject/src/templates/contact.html",
+		"/home/kashyap/Dev/firstroject/src/templates/snipet/nav.html",
+		"/home/kashyap/Dev/firstroject/src/templates/base.html",
+		"/home/kashyap/Dev/firstroject/src/restaurants/views.py",
+		"/home/kashyap/Dev/firstroject/src/firstroject/urls.py",
+		"/home/kashyap/Dev/firstroject/src/templates/snipet/js.html",
+		"/home/kashyap/Dev/firstroject/src/templates/snipet/css.html",
+		"/home/kashyap/Dev/cfehome/src/templates/about.html",
+		"/home/kashyap/Dev/cfehome/src/templates/home.html",
+		"/home/kashyap/Dev/cfehome/src/templates/snipets/js.html",
+		"/home/kashyap/Dev/cfehome/src/templates/snipets/css.html",
+		"/home/kashyap/Dev/cfehome/src/templates/base.html",
+		"/home/kashyap/Dev/cfehome/src/templates/contact.html",
+		"/home/kashyap/Dev/cfehome/src/templates/snipets/nav.html",
+		"/home/kashyap/Dev/cfehome/src/cfehome/settings/__init__.py",
+		"/home/kashyap/Dev/cfehome/src/cfehome/__init__.py",
+		"/home/kashyap/Dev/firstroject/src/firstroject/old-settings.py",
+		"/home/kashyap/Dev/firstroject/src/firstroject/__init__.py",
+		"/home/kashyap/Desktop/dev/project1/src/firstproject/settings/base.py",
+		"/home/kashyap/Desktop/dev/project1/src/firstproject/settings/__init__.py",
+		"/home/kashyap/Desktop/dev/project1/src/firstproject/settings/production.py",
+		"/home/kashyap/Desktop/dev/project1/src/firstproject/settings/local.py",
+		"/home/kashyap/Desktop/dev/project1/src/firstproject/old_settings.py",
+		"/home/kashyap/Dev/cfehome/src/cfehome/settings/local.py",
+		"/home/kashyap/Dev/cfehome/src/cfehome/settings/production.py",
+		"/home/kashyap/Dev/cfehome/src/requirements.txt",
+		"/home/kashyap/Dev/cfehome/src/cfehome/old_settings.py",
+		"/home/kashyap/Dev/cfehome/src/cfehome/settings.py",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/user/userhome.jsp",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/user/css/style.css",
+		"/home/kashyap/Documents/Python/test.py",
+		"/home/kashyap/battery.py",
+		"/home/kashyap/Downloads/6d4dac76f9-input-6d4abb6.txt.clean.txt",
+		"/home/kashyap/Downloads/5012d0b48b-input-5012b17.txt.clean.txt",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/user/userhome.html",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/user/css",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/index.html",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/newuser.html",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/css/style.css",
+		"/home/kashyap/Documents/Cryptology-for-security/WebContent/fpassword.html",
+		"/home/kashyap/Documents/Techone/css/style.css",
+		"/home/kashyap/Documents/Techone/index.html",
+		"/home/kashyap/Documents/Techone/image/logo.png",
+		"/home/kashyap/.config/sublime-text-3/Packages/User/python2.7.sublime-build",
+		"/home/kashyap/.config/sublime-text-3/Packages/User/python3.5.sublime-build",
+		"/home/kashyap/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/kashyap/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/kashyap/Desktop/test.py",
+		"/opt/lampp/htdocs/test/index.html",
+		"/home/kashyap/Documents/Python/argument_demo.py",
+		"/home/kashyap/Documents/C /bitwise_test.c",
+		"/home/kashyap/Documents/C /remove_trailing_blank_ and_blank_line.c",
+		"/home/kashyap/Documents/C /print_input_line_greater_than_80.c",
+		"/home/kashyap/Documents/C /histogram_of_frequency_of_different_charactor.c",
+		"/home/kashyap/Documents/C /histogram_of_length_of_worlds.c",
+		"/home/kashyap/Documents/C /one_world_one_line.c",
+		"/home/kashyap/Documents/C /blank_remover.c",
+		"/home/kashyap/Documents/C /count_blank_tab_newlines.c",
+		"/home/kashyap/Documents/C /char_count.c",
+		"/home/kashyap/Documents/Q. Nyquist sampling theorem?",
+		"/home/kashyap/Desktop/test.html",
+		"/home/kashyap/Desktop/test"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/book.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										579,
+										580
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										558,
+										559
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										693,
+										694
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										10,
+										11
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 50.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "test.cpp",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

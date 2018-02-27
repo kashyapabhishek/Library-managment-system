@@ -1,0 +1,24 @@
+
+
+
+Normally you install software or deb packages on Ubuntu/Mint linux via Synaptic, Ubuntu Software Center/ppa, or an apt-get command from the terminal. In another hand, Fedora, centos, mandriva, and redhat support rpm packages.
+
+Someday you have to install rpm package to your ubuntu/mint linux/debian box, there is a utility called Alien, Alien will converts packages from one format to another with ease.
+
+Here is how to install rpm packages on ubuntu, linux mint, or debian
+
+Install alien and all the dependencies it needs
+
+# apt-get install alien dpkg-dev debhelper build-essential
+
+To convert a package from rpm to debian format
+
+# alien packagen.rpm
+
+Finally, install your package !
+
+# dpkg -i package.deb
+
+For more info, use
+
+$ alien -h
